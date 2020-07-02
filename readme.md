@@ -1,1 +1,1 @@
-I designed this app to calculate milliseconds of the inserted BPM.
+I designed this (purely VanillaJS) app to calculate milliseconds of the inserted BPM.
